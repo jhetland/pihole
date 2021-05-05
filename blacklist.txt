@@ -1,4 +1,4 @@
 0.0.0.0 youtube.com
-0.0.0.0 toktok.com
+0.0.0.0 tiktok.com
 0.0.0.0 spillespill.no
 0.0.0.0 spillespill.com
